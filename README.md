@@ -19,7 +19,7 @@ I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to 
 <a href="https://nodejs.org/en/"> <img align="left" alt="Visual Studio Code" width="110px" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=flat" /></a>
 <a href="https://getbootstrap.com/"> <img align="left" alt="Visual Studio Code" width="128px" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" /></a>
 <a href="https://html.com/"> <img align="left" alt="Visual Studio Code" width="110px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr"> <img align="left" alt="Visual Studio Code" width="110px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr"> <img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat"/></a>
 
 
 <br>
