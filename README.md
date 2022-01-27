@@ -14,6 +14,6 @@ I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to 
 - ⚡ Fun fact: I like to read, write and code. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbask&show_icons=true&theme=onedark) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbask&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbask&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ismailbask)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ismailbasik//)  
 
