@@ -26,12 +26,12 @@ I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to 
 <br>
 <br>
 
-## 📩 Connect with me:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbask&show_icons=true&theme=onedark)
 <br>
 <br>
 <br>
+## 📩 Connect with me:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbask&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
