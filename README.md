@@ -8,8 +8,6 @@ I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to 
 ## Skils and Experience
 * :computer: HTML, CSS, Bootstrap, JS, NodeJS
 
-Skills:  JS /NodeJS / Bootstrap / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Nodejs, React, Java 
 - 📫 How to reach me: ismailbasik47@gmail.com 
