@@ -1,8 +1,12 @@
-### Hi there 👋, İsmail BASIK
-#### FullStack Developer
 ![FullStack Developer](https://github.com/ismailbask/ismailbask/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
 
+### Hi there 👋, I'm İsmail BASIK
+
+
 I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to develop projects.
+
+## Skils and Experience
+* :computer: HTML, CSS, Bootstrap, JS, NodeJS
 
 Skills:  JS /NodeJS / Bootstrap / HTML / CSS
 
