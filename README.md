@@ -15,7 +15,7 @@ I'am İsmail BASIK and I'm learning Html, Css, JavaScript, Nodejs and trying to 
 - 
  ###### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />][vsCode]
+[<img align="left" alt="Visual Studio Code" width="64px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />]
 
 
 <br />
